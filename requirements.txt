@@ -1,2 +1,3 @@
 plantcv==3.14.2
+scikit-image>=0.19
 ipympl
